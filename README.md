@@ -1,3 +1,4 @@
+HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# eNotebook
+"eNotebook" A Cloud-Based Note Storage App 📝✨ Effortlessly capture and organize your notes with eNotebook. Store your ideas securely on the cloud, accessible from anywhere. Say goodbye to scattered notes and hello to streamlined productivity. Take notes, stay organized, and boost your efficiency with eNotebook
+ 3c1995c901b1f5efd16c8d6f1109ae6e724dc1e1
